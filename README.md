@@ -2,7 +2,7 @@
 ## Temos aqui 2 pastas, uma contendo o FrontEnd e outra contendo o BackEnd
 Esta aplicação toda foi construída toda sob o framework Angular no front, e no Blackend usamos o java versão 8 junto com o controlador de dependencias Mavem.
 
-Para funcionar a aplicação primeiro você deve no terminal e dentro da pasta onde foi colocado todo o projet, você deve criar o pacote.jar usando a seguinte linha de comando:
+Para funcionar a aplicação primeiro você deve no terminal e dentro da pasta onde foi colocado todo o projeto, você deve criar o pacote.jar usando a seguinte linha de comando:
 **mvn clean package spring-boot:repackage**
 
 Em seguida suba o projeto usando a seguinte linha de comando:
